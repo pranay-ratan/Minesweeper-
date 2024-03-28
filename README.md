@@ -18,12 +18,11 @@ This Minesweeper game is implemented in C and challenges players to clear a 10x1
 ## How to Play
 Compile the C code and run the executable. Follow the prompts to enter the x (vertical) and y (horizontal) coordinates within the grid range of 0 to 9. Uncover safe cells and collect bonuses, but be cautious – stepping on a mine ends the game!
 
+## Video Guide
+Watch this [video guide](https://youtu.be/wtl5CcmX6Q8) where I explain how the code works and give a demonstration of the game in action.
+
 ## Winning the Game
 To win, uncover all cells without mines. Keep track of suspected mine locations and use deductive reasoning to avoid them. Can you clear the board and achieve the highest score?
 
-## License
-[MIT License](LICENSE.md)
-
----
 
 Enjoy the game and may your moves be ever in your favor!
